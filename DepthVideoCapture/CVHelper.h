@@ -17,7 +17,7 @@ May 27, 2014
 
 #include "NiHelper.h"
 
-const std::string folder = "frames/";
+const std::string folder = "../frames/";
 const std::string depthPrefix = "depth_";
 const std::string depthSuffix = ".png";
 
